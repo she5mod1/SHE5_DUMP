@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# SHE5 PROTECTED FILE
+
 
 _ = lambda d,k: bytes(b ^ k for b in d)
 
