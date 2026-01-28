@@ -1,3 +1,5 @@
+pkg install radare2
+
 rm -rf ~/SHE5_DUMP
 
 git clone https://github.com/she5mod1/SHE5_DUMP.git
