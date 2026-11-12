@@ -34,7 +34,7 @@ WHITE  = "\033[0;37m"
 RESET  = "\033[0m"
 
 # ========= SETTINGS =========
-DEFAULT_TARGET = "/storage/emulated/0/she5/"
+DEFAULT_TARGET = "/storage/emulated/0/Download/Telegram/she5/"
 SCRIPT_DIR = Path(__file__).resolve().parent
 OUT_EXT = "c"                     # extension of the dump files
 MARK = "DUMPSEC_9f3a_"            # section marker used to split r2 output
